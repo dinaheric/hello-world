@@ -1,0 +1,82 @@
+.jumbotron{
+    background-image: url("anitaimages/landing.jpg")
+}
+.logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+
+}
+.font{
+    color:white;
+    font: 200;
+    text-align: center;
+}
+.party{
+    background-color: orangered;
+    padding: 20px;
+}
+.one{
+    background-image: url("anitaimages/breakfast.jpg");
+    padding: 60px;
+    padding-right: 8em;
+}
+.happy{
+    padding: 20px;
+    background-color: gainsboro;
+}
+.two{
+    background-image: url("anitaimages/lunch.jpg");
+    padding:60px;
+}
+.three{
+    background-image: url("anitaimages/dinner.jpg");
+    padding: 60px;
+}
+.subscribe{
+    color:white;
+    font: 200;
+    text-align: center;
+    background-image: url("anitaimages/subscribe.jpg")
+}
+.wlogo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    background-color: orangered;
+    padding: 60px;
+}
+#subscribe {
+    background-image: url("anitaimages/subscribe.jpg");
+    padding: 60px;
+    text-align: center;
+}
+.pWhite {
+    color: white;
+}
+#formSub {
+    margin-left:400px;
+    
+}
+.btnSubscribe {
+    margin-left: 60px;
+    background-color:#F15A29; 
+    color: white;
+    border:0px;
+}
+.bold{
+    color:white;
+    font: 200;
+    text-align: center;
+    padding: 60px;
+}
+.wlogo {
+    padding: 60px;
+    text-align: center;
+}
+#colFooter {
+    background-color: #F15A29;
+    text-align: center;
+}
